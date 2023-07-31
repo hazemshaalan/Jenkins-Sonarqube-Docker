@@ -20,3 +20,9 @@ sudo apt-get update
 sudo apt-get install jenkins
   
 ~
+- Then w chnage the names of the servers to stop the confusion :
+  >> sudo hostnamectl set-hostname sonarqube
+  >> sudo hostnamectl set-hostname sonarqube
+# Sonarqube 
+>> sudo apt update
+>> sudo apt install openjdk-17-jre -y
